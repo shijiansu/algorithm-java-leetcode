@@ -4,3 +4,9 @@
 ![](https://img.shields.io/badge/license-MIT-lightgrey)
 
 - https://leetcode.com/problemset/algorithms/
+
+--------------------------------------------------------------------------------
+
+# Execute all tests in project / sub-projects
+
+`/bin/bash run-project-test.sh`
