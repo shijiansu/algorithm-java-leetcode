@@ -9,6 +9,9 @@
 ![](https://img.shields.io/github/languages/code-size/shijiansu/algorithm-java-leetcode)
 ![](https://img.shields.io/github/repo-size/shijiansu/algorithm-java-leetcode)
 ![](https://img.shields.io/github/last-commit/shijiansu/algorithm-java-leetcode?color=red)
+![](https://github.com/shijiansu/algorithm-java-leetcode/workflows/ci%20build/badge.svg)
+
+--------------------------------------------------------------------------------
 
 - https://leetcode.com/problemset/algorithms/
 
